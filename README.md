@@ -236,7 +236,7 @@ Details and the current plan comparison are on the [pricing page](https://www.re
 - Terms: [releasepad.io/terms-and-conditions](https://www.releasepad.io/terms-and-conditions/)
 - Support: [felix@releasepad.io](mailto:felix@releasepad.io)
 
-Registry metadata for this server lives in [`server.json`](server.json); directory submission steps are in [`SUBMISSION.md`](SUBMISSION.md); changes to this documentation are tracked in [`CHANGELOG.md`](CHANGELOG.md).
+Registry metadata for this server lives in [`server.json`](server.json); changes to this documentation are tracked in [`CHANGELOG.md`](CHANGELOG.md).
 
 ## License
 
