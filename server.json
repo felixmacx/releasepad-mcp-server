@@ -1,0 +1,21 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.releasepad/mcp",
+  "title": "ReleasePad",
+  "description": "Draft, publish, schedule and analyze ReleasePad changelog posts from any MCP client.",
+  "websiteUrl": "https://www.releasepad.io/features/mcp-server/",
+  "icons": [
+    {
+      "src": "https://www.releasepad.io/assets/images/logo.png",
+      "mimeType": "image/png",
+      "sizes": ["400x400"]
+    }
+  ],
+  "version": "1.0.0",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://pro.releasepad.io/mcp"
+    }
+  ]
+}
