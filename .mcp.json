@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "releasepad": {
+      "type": "http",
+      "url": "https://pro.releasepad.io/mcp"
+    }
+  }
+}
