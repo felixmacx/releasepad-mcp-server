@@ -11,11 +11,7 @@
       "sizes": ["400x400"]
     }
   ],
-  "repository": {
-    "url": "https://github.com/felixmacx/releasepad-mcp-server",
-    "source": "github"
-  },
-  "version": "1.0.1",
+  "version": "1.0.0",
   "remotes": [
     {
       "type": "streamable-http",
